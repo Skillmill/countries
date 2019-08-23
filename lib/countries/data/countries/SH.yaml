@@ -5,9 +5,9 @@ SH:
   alpha3: SHN
   country_code: '290'
   international_prefix: '00'
-  ioc: 
+  ioc:
   gec: SH
-  name: Saint Helena, Ascension and Tristan da Cunha
+  name: Saint Helena
   national_destination_code_lengths:
   - 2
   national_number_lengths:

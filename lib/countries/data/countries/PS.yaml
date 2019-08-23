@@ -8,7 +8,7 @@ PS:
   international_prefix: '00'
   ioc: PLE
   gec: WE
-  name: Palestine, State of
+  name: Palestine
   national_destination_code_lengths:
   - 2
   national_number_lengths:

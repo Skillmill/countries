@@ -7,7 +7,7 @@ FM:
   international_prefix: '011'
   ioc: FSM
   gec: FM
-  name: Micronesia (Federated States of)
+  name: Micronesia
   national_destination_code_lengths:
   - 2
   national_number_lengths:

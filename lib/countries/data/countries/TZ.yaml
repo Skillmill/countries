@@ -7,7 +7,7 @@ TZ:
   international_prefix: '000'
   ioc: TAN
   gec: TZ
-  name: Tanzania, United Republic of
+  name: Tanzania
   national_destination_code_lengths:
   - 2
   national_number_lengths:

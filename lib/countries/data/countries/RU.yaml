@@ -12,7 +12,7 @@ RU:
   international_prefix: '810'
   ioc: RUS
   gec: RS
-  name: Russian Federation
+  name: Russia
   national_destination_code_lengths:
   - 3
   national_number_lengths:
